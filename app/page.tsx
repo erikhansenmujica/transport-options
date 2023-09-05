@@ -105,7 +105,7 @@ export default function Home() {
                     </span>
                   </li>
                 </ul>
-                <a target="_blank" href="https://wa.me/393314495391">
+                <a target="_blank" href="https://wa.me/393519257627">
                   <u>Click here to open a Whatsapp Chat</u>
                 </a>
               </div>
@@ -200,7 +200,7 @@ export default function Home() {
                     </span>
                   </li>
                 </ul>
-                <a target="_blank" href="https://wa.me/393314495391">
+                <a target="_blank" href="https://wa.me/393519257627">
                   <u>Click here to open a Whatsapp Chat</u>
                 </a>
               </div>
@@ -214,7 +214,7 @@ export default function Home() {
                   <span className="mr-2 text-5xl font-extrabold"></span>
                 </div>
 
-                <a target="_blank" href="https://wa.me/393314495391">
+                <a target="_blank" href="https://wa.me/393519257627">
                   <u>Click here to open a Whatsapp Chat</u>
                 </a>
               </div>
