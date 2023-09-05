@@ -195,8 +195,8 @@ export default function Home() {
                       ></path>
                     </svg>
                     <span>
-                      Call when the group is ready and we will pick you up in
-                      every place
+                      Call when you are ready and we will pick you up in every
+                      place
                     </span>
                   </li>
                 </ul>
