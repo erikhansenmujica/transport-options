@@ -2,10 +2,10 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="flex min-h-screen flex-col items-center justify-between ">
       <div className="z-10 max-w-5xl  items-center justify-between font-mono text-sm ">
         <section className="bg-white dark:bg-gray-900">
-          <div className="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+          <div className="py-8 px-4 p-0-screen-sm mx-auto w-screen-sm-max max-w-screen-xl lg:py-16 lg:px-6">
             <div className="mx-auto max-w-screen-md text-center mb-8 lg:mb-12">
               <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
                 Transport Options
@@ -105,10 +105,7 @@ export default function Home() {
                     </span>
                   </li>
                 </ul>
-                <a
-                  target="_blank"
-                  href="https://api.whatsapp.com/send?phone=393314495391&text=Hello this is the starting message"
-                >
+                <a target="_blank" href="https://wa.me/393314495391">
                   <u>Click here to open a Whatsapp Chat</u>
                 </a>
               </div>
@@ -119,7 +116,7 @@ export default function Home() {
                   Get the service just for you
                 </p>
                 <div className="flex justify-center items-baseline my-8">
-                  <span className="mr-2 text-5xl font-extrabold">$80</span>
+                  <span className="mr-2 text-5xl font-extrabold">$60</span>
                   <span className="text-gray-500 ">/person</span>
                 </div>
 
@@ -203,10 +200,7 @@ export default function Home() {
                     </span>
                   </li>
                 </ul>
-                <a
-                  target="_blank"
-                  href="https://api.whatsapp.com/send?phone=393314495391&text=Hello this is the starting message"
-                >
+                <a target="_blank" href="https://wa.me/393314495391">
                   <u>Click here to open a Whatsapp Chat</u>
                 </a>
               </div>
@@ -220,10 +214,7 @@ export default function Home() {
                   <span className="mr-2 text-5xl font-extrabold"></span>
                 </div>
 
-                <a
-                  target="_blank"
-                  href="https://api.whatsapp.com/send?phone=393314495391&text=Hello this is the starting message"
-                >
+                <a target="_blank" href="https://wa.me/393314495391">
                   <u>Click here to open a Whatsapp Chat</u>
                 </a>
               </div>
