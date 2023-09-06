@@ -21,7 +21,7 @@ export default function Home() {
                   Get on with another 3 passangers and share the cost.
                 </p>
                 <div className="flex justify-center items-baseline my-8">
-                  <span className="mr-2 text-5xl font-extrabold">$20</span>
+                  <span className="mr-2 text-5xl font-extrabold">€20</span>
                   <span className="text-gray-500 ">/person</span>
                 </div>
 
@@ -116,7 +116,7 @@ export default function Home() {
                   Get the service just for you
                 </p>
                 <div className="flex justify-center items-baseline my-8">
-                  <span className="mr-2 text-5xl font-extrabold">$60</span>
+                  <span className="mr-2 text-5xl font-extrabold">€60</span>
                   <span className="text-gray-500 ">/person</span>
                 </div>
 
